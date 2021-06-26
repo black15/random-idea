@@ -429,12 +429,12 @@ html {
   }
 
   .banner .content h2 {
+    margin-top : 20px;
     font-size: 40px;
     margin-bottom: 10px;
   }
 
   .banner header {
-    margin-top : 30px;
     padding: 25px 35px;
   }
 
